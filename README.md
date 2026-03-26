@@ -9,6 +9,13 @@ A macOS menu bar app that keeps a history of everything you copy.
 
 ## Run
 
+Download the Code, open terminal
+
+```bash
+cd 'yourcodebase'
+```
+then
+
 ```bash
 swift run
 ```
